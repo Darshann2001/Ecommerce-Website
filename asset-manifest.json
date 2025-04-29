@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ecommerce-Website/static/css/main.8efe1ef6.css",
-    "main.js": "/Ecommerce-Website/static/js/main.8974203c.js",
-    "static/media/woman_hero.png": "/Ecommerce-Website/static/media/woman_hero.d109717db264ec684e97.png",
-    "static/media/bg_hero.svg": "/Ecommerce-Website/static/media/bg_hero.5b3a28da99dfd198982f.svg",
-    "static/media/logo.svg": "/Ecommerce-Website/static/media/logo.7740ae04391d2ede26528c55d3b0102f.svg",
-    "index.html": "/Ecommerce-Website/index.html",
-    "main.8efe1ef6.css.map": "/Ecommerce-Website/static/css/main.8efe1ef6.css.map",
-    "main.8974203c.js.map": "/Ecommerce-Website/static/js/main.8974203c.js.map"
+    "main.css": "/Ecommerce-website/static/css/main.81e07788.css",
+    "main.js": "/Ecommerce-website/static/js/main.05c07718.js",
+    "static/media/woman_hero.png": "/Ecommerce-website/static/media/woman_hero.d109717db264ec684e97.png",
+    "static/media/bg_hero.svg": "/Ecommerce-website/static/media/bg_hero.5b3a28da99dfd198982f.svg",
+    "static/media/logo.svg": "/Ecommerce-website/static/media/logo.7740ae04391d2ede26528c55d3b0102f.svg",
+    "index.html": "/Ecommerce-website/index.html",
+    "main.81e07788.css.map": "/Ecommerce-website/static/css/main.81e07788.css.map",
+    "main.05c07718.js.map": "/Ecommerce-website/static/js/main.05c07718.js.map"
   },
   "entrypoints": [
-    "static/css/main.8efe1ef6.css",
-    "static/js/main.8974203c.js"
+    "static/css/main.81e07788.css",
+    "static/js/main.05c07718.js"
   ]
 }
