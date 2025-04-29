@@ -1,5 +1,6 @@
 {
   "name": "ecommerce-shop",
+  "homepage": "https://Darshann2001.github.io/Ecommerce-Website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,11 +12,21 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.4.19",
+    "react-icons": "^4.6.0",
+    "react-router-dom": "^6.4.3",
+    "tailwindcss": "^3.2.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -34,12 +45,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.19",
-    "react-icons": "^4.6.0",
-    "react-router-dom": "^6.4.3",
-    "tailwindcss": "^3.2.4"
   }
 }
