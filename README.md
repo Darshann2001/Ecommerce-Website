@@ -1,3 +1,5 @@
+## Website Link :- https://darshann2001.github.io/Ecommerce-website/
+
 # 🛒 React E-commerce App (with Fake Store API)
 
 This is a frontend e-commerce application built with **React**, which fetches products from the [Fake Store API](https://fakestoreapi.com/), supports **add to cart**, and includes a **checkout form** to simulate order placement.
@@ -24,4 +26,4 @@ This is a frontend e-commerce application built with **React**, which fetches pr
 - React Icons
 - Fake Store API
 
-## Website Link :- https://darshann2001.github.io/Ecommerce-website/
+
